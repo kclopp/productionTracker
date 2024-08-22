@@ -1,0 +1,15 @@
+From: your_email@example.com
+To: recipient@example.com
+Subject: Meeting Summary - Test meeting
+
+Meeting Summary - 2024-08-22
+Attendees: Kevin,  Bill,  John
+
+Topics Discussed:
+- AI integration
+-  future ops
+-  use kases
+
+Action Items:
+- check with proxy
+-  update docs
